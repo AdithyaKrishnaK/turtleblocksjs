@@ -38,45 +38,43 @@ Main toolbar
 The Main toolbar is used to run programs, erase the screen, and hide
 the palettes and blocks.
 
-<img src='https://rawgithub.com/walterbender/turtleblocksjs/master/documentation/fast-button.png' />
+<img src='https://github.com/AdithyaKrishnaK/turtleblocksjs/blob/master/documentation/RunFast.PNG' />
 
-Run the blocks fast.
+Run the blocks fast. Long Press to run slow.
 
-<img src='https://rawgithub.com/walterbender/turtleblocksjs/master/documentation/slow-button.png' />
+<img src='https://github.com/AdithyaKrishnaK/turtleblocksjs/blob/master/documentation/StepbyStep.PNG' />
 
-Run the blocks slowly. When running slowly, the values of parameter
-boxes are shown as an additional debugging aid.
+Run the blocks slowly step by step.
 
-<img src='https://rawgithub.com/walterbender/turtleblocksjs/master/documentation/step-button.png' />
-
-Run the blocks step by step (one block is executed per turtle per click).
-
-<img src='https://rawgithub.com/walterbender/turtleblocksjs/master/documentation/stop-turtle-button.png' />
+<img src='https://github.com/AdithyaKrishnaK/turtleblocksjs/blob/master/documentation/Stop.PNG' />
 
 Stop running the current project.
 
-<img src='https://rawgithub.com/walterbender/turtleblocksjs/master/documentation/clear-button.png' />
+<img src='https://github.com/AdithyaKrishnaK/turtleblocksjs/blob/master/documentation/Clean.PNG' />
 
-Clear the screen and return the turtles to their initial positions in
-the center of the screen.
+Clear the screen and return the turtles to their initial positions.
 
-<img src='https://rawgithub.com/walterbender/turtleblocksjs/master/documentation/palette-button.png' />
+<img src='https://github.com/AdithyaKrishnaK/turtleblocksjs/blob/master/documentation/Hide.PNG' />
 
 Hide or show the block palettes.
 
-<img src='https://rawgithub.com/walterbender/turtleblocksjs/master/documentation/hide-blocks-button.png' />
+<img src='https://github.com/AdithyaKrishnaK/turtleblocksjs/blob/master/documentation/HideBlocks.PNG' />
 
-Hide or show the blocks and the block palettes.
+Hide or show the blocks and the palettes.
 
-<img src='https://rawgithub.com/walterbender/turtleblocksjs/master/documentation/collapse-blocks-button.png' />
+<img src='https://github.com/AdithyaKrishnaK/turtleblocksjs/blob/master/documentation/Move.PNG' />
 
-Expand or collapse stacks of blocks (start and action stacks).
+Expand or collapse start and action stacks.
 
-<img src='https://rawgithub.com/walterbender/turtleblocksjs/master/documentation/help-button.png' />
+<img src='https://github.com/AdithyaKrishnaK/turtleblocksjs/blob/master/documentation/Home.PNG' />
+
+Return all blocks to the center of the screen.
+
+<img src='https://github.com/AdithyaKrishnaK/turtleblocksjs/blob/master/documentation/Help.PNG' />
 
 Show the help messages.
 
-<img src='https://rawgithub.com/walterbender/turtleblocksjs/master/documentation/menu-button.png' />
+<img src='https://github.com/AdithyaKrishnaK/turtleblocksjs/blob/master/documentation/Menu.PNG' />
 
 Expand or collapse the auxillary toolbar.
 
