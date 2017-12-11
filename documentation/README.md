@@ -87,43 +87,40 @@ programs, overlaying grids, and accessing the utility panel. The
 Auxillary toolbar button on the Main toolbar (top right) is used to
 show/hide the Auxillary toolbar.
 
-<img src='https://rawgithub.com/walterbender/turtleblocksjs/master/documentation/planet-button.png' />
+<img src='https://github.com/AdithyaKrishnaK/turtleblocksjs/blob/master/documentation/World.PNG' />
 
 Open a viewer for loading example projects.
 
-<img src='https://rawgithub.com/walterbender/turtleblocksjs/master/documentation/copy-button.png' />
+<img src='https://github.com/AdithyaKrishnaK/turtleblocksjs/blob/master/documentation/Files.PNG' />
 
-Copy blocks onto the clipboard. (This button appears at the top of a
-stack after a "long press".)
+Allows you to load projects from the file system.
 
-Also shown on after a long press is the Save Action-stack button. This
-will save an action stack on the custom palette for use in other
-projects.
+<img src='https://github.com/AdithyaKrishnaK/turtleblocksjs/blob/master/documentation/Download.PNG' />
 
-<img src='https://rawgithub.com/walterbender/turtleblocksjs/master/documentation/paste-button.png' />
+Save your project to a file.
 
-Paste blocks from the clipboard. (This button is highlighted only when
-there are blocks available on the clipboard to paste.)
+<img src='https://github.com/AdithyaKrishnaK/turtleblocksjs/blob/master/documentation/Paste.PNG' />
 
-<img src='https://rawgithub.com/walterbender/turtleblocksjs/master/documentation/Cartesian-button.png' />
+Paste blocks from the clipboard. (This button is highlighted only when there are 
+blocks available on the clipboard to paste.)
+
+<img src='https://github.com/AdithyaKrishnaK/turtleblocksjs/blob/master/documentation/Graph.PNG' />
 
 Show or hide a Cartesian-coordinate grid.
 
-<img src='https://rawgithub.com/walterbender/turtleblocksjs/master/documentation/polar-button.png' />
+<img src='https://github.com/AdithyaKrishnaK/turtleblocksjs/blob/master/documentation/Polar.PNG' />
 
 Show or hide a polar-coordinate grid.
 
-<img src='https://rawgithub.com/walterbender/turtleblocksjs/master/documentation/utility-button.svg' />
+<img src='https://github.com/AdithyaKrishnaK/turtleblocksjs/blob/master/documentation/Settings.PNG' />
 
-Open utility panel to access controls for changing block size, loading
-plugins, looking at project statistics, and enabling/disabling
-scrolling.
+Open a panel for configuring Turtle Blocks.
 
-<img src='https://rawgithub.com/walterbender/turtleblocksjs/master/documentation/empty-trash-button.png' />
+<img src='https://github.com/AdithyaKrishnaK/turtleblocksjs/blob/master/documentation/Delete.PNG' />
 
-Remove all blocks.
+Remove all content on the canvas, including the blocks
 
-<img src='https://rawgithub.com/walterbender/turtleblocksjs/master/documentation/restore-trash-button.png' />
+<img src='https://github.com/AdithyaKrishnaK/turtleblocksjs/blob/master/documentation/Undo.PNG' />
 
 Restore blocks from the trash.
 
